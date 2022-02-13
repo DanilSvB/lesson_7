@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=RobotoCondensed:ital,wght@0,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,400;1,700&display=swap');
 
 body{
     background: url(../img/bg.png) -300px -100px / cover no-repeat fixed, linear-gradient(90deg, rgba(116,230,87,1) 0%, rgba(166,0,255,0.7903536414565826) 90%);
